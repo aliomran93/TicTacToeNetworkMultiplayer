@@ -1,0 +1,16 @@
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/obj/Debug/net5.0/TicTacToeMultiplayer.csproj.AssemblyReference.cache
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/obj/Debug/net5.0/TicTacToeMultiplayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/obj/Debug/net5.0/TicTacToeMultiplayer.AssemblyInfoInputs.cache
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/obj/Debug/net5.0/TicTacToeMultiplayer.AssemblyInfo.cs
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/obj/Debug/net5.0/TicTacToeMultiplayer.csproj.CoreCompileInputs.cache
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/bin/Debug/net5.0/TicTacToeMultiplayer
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/bin/Debug/net5.0/TicTacToeMultiplayer.deps.json
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/bin/Debug/net5.0/TicTacToeMultiplayer.runtimeconfig.json
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/bin/Debug/net5.0/TicTacToeMultiplayer.runtimeconfig.dev.json
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/bin/Debug/net5.0/TicTacToeMultiplayer.dll
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/bin/Debug/net5.0/ref/TicTacToeMultiplayer.dll
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/bin/Debug/net5.0/TicTacToeMultiplayer.pdb
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/obj/Debug/net5.0/TicTacToeMultiplayer.dll
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/obj/Debug/net5.0/ref/TicTacToeMultiplayer.dll
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/obj/Debug/net5.0/TicTacToeMultiplayer.pdb
+/home/ali/RiderProjects/TicTacToeMultiplayer/TicTacToeMultiplayer/obj/Debug/net5.0/TicTacToeMultiplayer.genruntimeconfig.cache
